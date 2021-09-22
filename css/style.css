@@ -1223,21 +1223,22 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,						fixed;
+		background-attachment: fixed;
 		background-color: #494d53;
 		background-image: url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
 		background-size: auto,						cover;
 		color: #d1d2d4;
-		padding: 16em 0;
+		padding: 10em 0;
 		position: relative;
 		text-align: center;
 	}
 
 	#banner img {
-		margin-top: -200px;
-		height: 200px !important;
+		max-width: 200px !important;
+		height: auto;
+		margin: auto;
 	}
 
 		#banner:after {
