@@ -1,0 +1,29 @@
+[subtitle]
+	other = "An open-source Minecraft client written in RUST"
+
+[find_out_more]
+	other = "Find out more"
+
+[feature_open-source]
+	other = "Open-source"
+
+[feature_open-source_text]
+	other = "Leafish is a community project and completely open-source. No original Mojang code is used"
+
+[feature_rust]
+	other = "Written in Rust"
+
+[feature_rust_text]
+	other = "This means modern platform support and performance improvements not possible in the original game"
+
+[feature_multi-version]
+	other = "Multi-version support"
+
+[feature_multi-version_text]
+	other = "Leafish is built from the ground up to support multiple Minecraft versions at the same time. No need to switch profiles around, this client can join any server from 1.7.10 and onwards"
+
+[get_the_game]
+	other = "Get the game"
+
+[license_information]
+	other = "License Information: Code dual-licensed as MIT and Apache-2.0 and art licensed as CC-BY-SA-4.0"
