@@ -2,6 +2,7 @@ baseURL = 'https://lea-fish.github.io/'
 languageCode = 'en-us'
 title = 'Leafish'
 defaultContentLanguage = 'en'
+disableKinds = ['taxonomy', 'term']
 
 [params]
 	description = "An open-source Minecraft client written in RUST"
