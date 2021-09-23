@@ -1,0 +1,10 @@
+<div class="dropdown">
+	<p>{{ i18n "language" }}</p>
+	<ul class="dropdown-content">
+		{{ range .AllTranslations }}
+			<li>
+				<a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+			</li>
+		{{ end }}
+	</ul>
+</div>

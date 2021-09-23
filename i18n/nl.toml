@@ -1,6 +1,9 @@
 [subtitle]
 	other = "Een open-source Minecraft client geschreven in RUST"
 
+[language]
+	other = "Taal"
+
 [find_out_more]
 	other = "Meer weten"
 
