@@ -1,0 +1,29 @@
+[subtitle]
+	other = "Een open-source Minecraft client geschreven in RUST"
+
+[find_out_more]
+	other = "Meer weten"
+
+[feature_open-source]
+	other = "Open-source"
+
+[feature_open-source_text]
+	other = "Leafish is een community project en compleet open-source. Geen originele Mojang code wordt gebruikt"
+
+[feature_rust]
+	other = "Geschreven in Rust"
+
+[feature_rust_text]
+	other = "Dit betekent moderne platform ondersteuning en prestatie verbeteringen niet mogelijk in het oorspronkelijke spel"
+
+[feature_multi-version]
+	other = "Multi-versie ondersteuning"
+
+[feature_multi-version_text]
+	other = "Leafish is van de grond af opgebouwd om meerdere versies tegelijk te ondersteunen. Er is geen noodzaak om tussen meerdere versies te wisselen, deze client can elke server van 1.7.10 en verder joinen"
+
+[get_the_game]
+	other = "Download"
+
+[license_information]
+	other = "License informatie: Code dubbel gelicenseerd als MIT en Apache-2.0 en assets gelicenseerd als CC-BY-SA-4.0"
